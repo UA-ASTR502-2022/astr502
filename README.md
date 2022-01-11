@@ -22,18 +22,18 @@ Dive into Deep Learning (https://d2l.ai)
 | 12 | 2/28 | Gradient Descent | d2l 11.3-11.5 | 
 | 13 | 3/02 | Optimization algorithm 1 (momentum, adagrad) | d2l 11.6-11.7 |
 | 14 | 3/14 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l 11.8-11.10 |
-| 15 | 3/16 | Learning Rate decay | d2l 11.11 | 
+| 15 | 3/16 | Learning Rate decay, Batch Normalization | d2l 11.11, 7.5 | 
 | 16 | 3/21 | DL computation basics | d2l ch5 |
 | 17 | 3/23 | CNN Introduction | d2l 6.1-6.2 | 
 | 18 | 3/28 | filter, padding, stride, pooling | d2l 6.3-6.5 |
-| 19 | 3/30 | Batch Normalization | d2l 7.5 | 
-| 20 | 4/04 | CNN architecture 1 | d2l ch7 |
-| 21 | 4/06 | CNN architecture 2 | d2l ch7 |
-| 22 | 4/11 | Term Project 1 | |
-| 24 | 4/13 | Term Project 2 | |
-| 25 | 4/18 | Term Project 3 | |
-| 26 | 4/20 | Term Project 4 | |
-| 27 | 4/25 | Term Project 5 | |
-| 28 | 4/27 | Term Project 6 | |
-| 29 | 5/02 | Term Project 7 | |
-| 30 | 5/04 | Term Project 8 | |
+| 19 | 3/30 | CNN architecture 1 | d2l ch7 | 
+| 20 | 4/04 | CNN architecture 2 | d2l ch7 |
+| 21 | 4/06 | Term Project 1 | |
+| 22 | 4/11 | Term Project 2 | |
+| 24 | 4/13 | Term Project 3 | |
+| 25 | 4/18 | Term Project 4 | |
+| 26 | 4/20 | Term Project 5 | |
+| 27 | 4/25 | Term Project 6 | |
+| 28 | 4/27 | Term Project 7 | |
+| 29 | 5/02 | Term Project 8 | |
+| 30 | 5/04 | Term Project 9 | |
