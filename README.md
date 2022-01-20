@@ -4,14 +4,15 @@
 
 Dive into Deep Learning (https://d2l.ai)
 
+
 ## Class Schedule
 
 | ID |  Day |     Topic     |   Materials   | Presenters | Notes |
 |----|------|---------------|---------------|------------|-------|
 |  1 | 1/12 | Course Introduction          | | Tim | |
-|  2 | 1/19 | Overview of Machine Learning | | Hung-Jin | |
+|  2 | 1/19 | Overview of Machine Learning | | Hung-Jin |[slides](./slides/ML_overview.pdf) |
 |  3 | 1/24 | ML Applications in Astro | | Tim | 
-|  4 | 1/31 | Special Topic TBD | | | 
+|  4 | 1/31 | Gaussian Processes and NNs to sample parameter spaces quickly | | Supranta| 
 |  5 | 2/02 | Linear Regression (theory & implementation) | d2l 3.1-3.3 | 
 |  6 | 2/07 | Logistic/Softmax Regression (theory & implementation) | d2l 3.4-3.7 |
 |  7 | 2/09 | Multilayer Perceptrons | d2l 4.1-4.3 |
@@ -37,3 +38,8 @@ Dive into Deep Learning (https://d2l.ai)
 | 27 | 4/27 | Term Project 8  | |
 | 28 | 5/02 | Term Project 9  | |
 | 29 | 5/04 | Term Project 10 | |
+
+## Links
+
+- [Lecture Presentation sign up sheet](https://docs.google.com/spreadsheets/d/1fAXCX4KAjm6qUFpbhN5rk-7BbxeYci_f1RwhIoH6z3M/edit#gid=0)
+- [ML papers in cosmology](https://github.com/georgestein/ml-in-cosmology/blob/master/README.md)
