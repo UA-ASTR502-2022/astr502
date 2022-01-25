@@ -22,23 +22,23 @@ Dive into Deep Learning (https://d2l.ai)
 | 11 | 2/21 | CNN basics 1 (Intro, Convolution, Padding & Stride) | d2l 6.1-6.3 | Annie |
 | 12 | 2/23 | CNN basics 2 (Channels, Pooling, LeNet) | d2l 6.4-6.6 | Patrick |
 | 13 | 2/28 | Optimization Basics, Convexity | d2l 11.1-11.2 | Lily |
-| 14 | 3/2 | Gradient Descent | d2l 11.3-11.5 | Vivian |
-| 15 | 3/14 | Optimization algorithm 1 (momentum, adagrad) | d2l 11.6-11.7 | Hayden |
-| 16 | 3/16 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l 11.8-11.10 | Gabriela |
-| 17 | 3/21 | Learning Rate decay, Batch Normalization | d2l 11.11, 7.5 | Haley |
-| 18 | 3/23 | CNN architecture 1 (AlexNet, VGG) | d2l 7.1-7.2 | Paul |
-| 19 | 3/28 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.2-7.4 | Jake |
-| 20 | 3/30 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yi-Hsiu |
-| 21 | 4/4 | Term Project 1  | |
-| 22 | 4/6 | Term Project 2  | |
-| 23 | 4/11 | Term Project 3  | |
-| 24 | 4/13 | Term Project 4  | |
-| 25 | 4/18 | Term Project 5  | |
-| 26 | 4/20 | Term Project 6  | |
-| 27 | 4/25 | Term Project 7  | |
-| 28 | 4/27 | Term Project 8  | |
-| 29 | 5/2 | Term Project 9  | |
-| 30 | 5/4 | Term Project 10 | |
+| 14 | 3/2 | ------ Prelim, no lecture today ------ |  |  |
+| 15 | 3/14 | Gradient Descent | d2l 11.3-11.5 | Vivian |
+| 16 | 3/16 | Optimization algorithm 1 (momentum, adagrad) | d2l 11.6-11.7 | Hayden |
+| 17 | 3/21 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l 11.8-11.10 | Gabriela |
+| 18 | 3/23 | Learning Rate decay, Batch Normalization | d2l 11.11, 7.5 | Haley |
+| 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l 7.1-7.2 | Paul |
+| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.2-7.4 | Jake |
+| 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yi-Hsiu |
+| 22 | 4/6 | Term Project 1  | |
+| 23 | 4/11 | Term Project 2  | |
+| 24 | 4/13 | Term Project 3  | |
+| 25 | 4/18 | Term Project 4  | |
+| 26 | 4/20 | Term Project 5  | |
+| 27 | 4/25 | Term Project 6  | |
+| 28 | 4/27 | Term Project 7  | |
+| 29 | 5/2 |   | |
+| 30 | 5/4 |   | |
 
 ## Links
 
