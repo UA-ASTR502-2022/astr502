@@ -30,17 +30,20 @@ Dive into Deep Learning (https://d2l.ai)
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l 7.1-7.2 | Paul |
 | 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.2-7.4 | Jake |
 | 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yi-Hsiu |
-| 22 | 4/6 | Term Project 1  | |
-| 23 | 4/11 | Term Project 2  | |
-| 24 | 4/13 | Term Project 3  | |
-| 25 | 4/18 | Term Project 4  | |
-| 26 | 4/20 | Term Project 5  | |
-| 27 | 4/25 | Term Project 6  | |
-| 28 | 4/27 | Term Project 7  | |
-| 29 | 5/2 |   | |
-| 30 | 5/4 |   | |
+| 22 | 4/6 | TBD | |
+| 23 | 4/11 | Term Project 1  | |
+| 24 | 4/13 | Term Project 2  | |
+| 25 | 4/18 | Term Project 3  | |
+| 26 | 4/20 | Term Project 4  | |
+| 27 | 4/25 | Term Project 5  | |
+| 28 | 4/27 | Term Project 6  | |
+| 29 | 5/2 | Term Project 7  | |
+| 30 | 5/4 | TBD  | |
 
 ## Links
 
 - [Lecture Presentation sign up sheet](https://docs.google.com/spreadsheets/d/1fAXCX4KAjm6qUFpbhN5rk-7BbxeYci_f1RwhIoH6z3M/edit#gid=0)
+  
+- [Selected ML papers in Astronomy](./Term%20Projects/README.md)
+
 - [ML papers in cosmology](https://github.com/georgestein/ml-in-cosmology/blob/master/README.md)
