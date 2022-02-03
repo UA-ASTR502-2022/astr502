@@ -1,9 +1,12 @@
 # ASTR 502 Data Mining and Machine Learning in Astronomy
 
+## Location
+
+Steward **R208** or Zoom : https://arizona.zoom.us/j/6849448207
+
 ## Textbook
 
 Dive into Deep Learning (https://d2l.ai)
-
 
 ## Class Schedule
 
