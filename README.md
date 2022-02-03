@@ -14,7 +14,7 @@ Dive into Deep Learning (https://d2l.ai)
 |  3 | 1/24 | ML Applications in Astro | | Tim | 
 |  4 | 1/26 | Gaussian Processes and NNs to sample parameter spaces quickly | | Supranta| 
 |  5 | 1/31 | Linear Regression (theory & implementation) | d2l 3.1-3.3 | Wei Leong | [notebook](./notebooks/lec05_linear_regression_20220131/lec05_linear_regression_20220131.ipynb)|
-|  6 | 2/2 | Logistic/Softmax Regression (theory & implementation) | d2l 3.4-3.7 | Chia-Lin | 
+|  6 | 2/2 | Logistic/Softmax Regression (theory & implementation) | d2l 3.4-3.7 | Chia-Lin | [slides](./notebooks/lec06_softmass_regression_20220202.pdf)|
 |  7 | 2/7 | Multilayer Perceptrons | d2l 4.1-4.3 | Hina | 
 |  8 | 2/9 | Model Selection, Underfitting & Overfitting, Weight Decay, Dropout | d2l 4.4-4.6 | Jeff | 
 |  9 | 2/14 | Forward & Backward Prop, Vanishing gradient and parameter initialization | d2l 4.7-4.8 | Yang |
