@@ -21,7 +21,7 @@ Dive into Deep Learning (https://d2l.ai)
 |  7 | 2/7 | Multilayer Perceptrons | d2l [§4.1](./d2l_briefs/4.1_multilayer-perceptrons.md), 4.2, 4.3 <br> [notebook](./notebooks/[demo]%20pytorch%20softmax%20regression%20&%20MLP.ipynb)| Hina | [slides](https://docs.google.com/presentation/d/1zcgrALOXQZUYljuE4Y11QCcYA3UOW0iSjwpC_4bVtEQ/edit?usp=sharing) |
 |  8 | 2/9 | Model Selection, Underfitting & Overfitting, Weight Decay, Dropout | d2l [§4.4](./d2l_briefs/4.4_model-selection.md), [§4.5](./d2l_briefs/4.5_weight-decay.md), [§4.6](./d2l_briefs/4.6_dropout.md) <br> [notebook](./notebooks/[demo]%20train%20MLP%20with%20dropout,%20L2%20Reg.ipynb)| Jeff | [slides](./slides/Sec4.4_4.6.pdf)
 |  9 | 2/14 | Forward & Backward Prop, Vanishing gradient and parameter initialization | d2l [§4.7](./d2l_briefs/4.7_backprop.md), [§4.8](./d2l_briefs/4.8_numerical-stability-and-init.md) | Yang | [slides](./slides/Chapter4.7-4.8.pdf) |
-| 10 | 2/16 | DL computation basics | d2l [§5.1](./d2l_briefs/5.1_model-construction.md), [§5.2](./notebooks/5.2_parameter-management.ipynb), §5.4-5.6 | Joe |
+| 10 | 2/16 | DL computation basics | d2l [§5.1](./d2l_briefs/5.1_model-construction.md), [§5.2](./notebooks/5.2_parameter-management.ipynb), [§5.4-5.6](./notebooks/5.4-5.6%20custom-layer,%20file%20IO,%20gpu.ipynb) | Joe |
 | 11 | 2/21 | CNN basics 1 (Intro, Convolution, Padding & Stride) | d2l 6.1-6.3 | Annie |
 | 12 | 2/23 | CNN basics 2 (Channels, Pooling, LeNet) | d2l 6.4-6.6 | Patrick |
 | 13 | 2/28 | Optimization Basics, Convexity | d2l 11.1-11.2 | Lily |
@@ -31,7 +31,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 17 | 3/21 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l 11.8-11.10 | Gabriela |
 | 18 | 3/23 | Learning Rate decay, Batch Normalization | d2l 11.11, 7.5 | Haley |
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l 7.1-7.2 | Paul |
-| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.2-7.4 | Jake |
+| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.3-7.4 | Jake |
 | 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yi-Hsiu |
 | 22 | 4/6 | TBD | |
 | 23 | 4/11 | Term Project 1  | |
