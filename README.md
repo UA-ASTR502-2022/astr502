@@ -32,7 +32,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 18 | 3/23 | Learning Rate decay, Batch Normalization | d2l 11.11, 7.5 | Haley |
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l 7.1-7.2 | Paul |
 | 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.3-7.4 | Jake |
-| 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yi-Hsiu |
+| 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yu-Hsiu |
 | 22 | 4/6 | TBD | |
 | 23 | 4/11 | Term Project 1  | |
 | 24 | 4/13 | Term Project 2  | |
@@ -41,7 +41,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 27 | 4/25 | Term Project 5  | |
 | 28 | 4/27 | Term Project 6  | |
 | 29 | 5/2 | Term Project 7  | |
-| 30 | 5/4 | TBD  | |
+| 30 | 5/4 | Term Project 8  | |
 
 ## Links
 
