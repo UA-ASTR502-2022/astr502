@@ -27,7 +27,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 13 | 2/28 | Optimization Basics, Convexity | d2l [§11.1](./d2l_briefs/11.1_optimization-intro.md), [§11.2](./d2l_briefs/11.2_convexity.md) | Lily | [slides](./slides/Chapter11.1-11.2.pdf) |
 | 14 | 3/2 | ------ Prelim, no lecture today ------ |  |  |
 | 15 | 3/14 | Gradient Descent | d2l [§11.3](./d2l_briefs/11.3_gradient-descent.md), [§11.4-§11.5](./d2l_briefs/11.4-11.5_sgd-and-mgd.md) | Vivian | |
-| 16 | 3/16 | Optimization algorithm 1 (momentum, adagrad) | d2l 11.6-11.7 | Hayden |
+| 16 | 3/16 | Optimization algorithm 1 (momentum, adagrad) | d2l [§11.6](./d2l_briefs/11.6_momentum.md), §11.7 | Hayden |
 | 17 | 3/21 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l 11.8-11.10 | Gabriela |
 | 18 | 3/23 | Learning Rate decay, Batch Normalization | d2l 11.11, 7.5 | Haley |
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l 7.1-7.2 | Paul |
