@@ -23,7 +23,7 @@ Dive into Deep Learning (https://d2l.ai)
 |  9 | 2/14 | Forward & Backward Prop, Vanishing gradient and parameter initialization | d2l [§4.7](./d2l_briefs/4.7_backprop.md), [§4.8](./d2l_briefs/4.8_numerical-stability-and-init.md) | Yang | [slides](./slides/Chapter4.7-4.8.pdf) |
 | 10 | 2/16 | DL computation basics | d2l [§5.1](./d2l_briefs/5.1_model-construction.md), [§5.2](./notebooks/5.2_parameter-management.ipynb), [§5.4-5.6](./notebooks/5.4-5.6%20custom-layer,%20file%20IO,%20gpu.ipynb) | Joe | [slides](./slides/Chapter-5.pdf) <br> [notebook](./notebooks/Chapter-5-code-examples.ipynb)
 | 11 | 2/21 | CNN basics 1 (Intro, Convolution, Padding & Stride) | d2l [§6.1](./d2l_briefs/6.1_why-cnn.md), [§6.2-§6.3](./notebooks/6.2-6.3%20CNN_1.ipynb) | Annie |[CNN 6.1-6.3.pdf](https://github.com/UA-ASTR502-2022/astr502/files/8130674/CNN.6.1-6.3.pdf) |
-| 12 | 2/23 | CNN basics 2 (Channels, Pooling, LeNet) | d2l [§6.4-§6.6](./notebooks/6.4-6.6%20CNN_2.ipynb) | Patrick |
+| 12 | 2/23 | CNN basics 2 (Channels, Pooling, LeNet) | d2l [§6.4-§6.6](./notebooks/6.4-6.6%20CNN_2.ipynb) | Patrick | [slides](./slides/CNN%20Lec%206.4-6.6.pdf) |
 | 13 | 2/28 | Optimization Basics, Convexity | d2l [§11.1](./d2l_briefs/11.1_optimization-intro.md), [§11.2](./d2l_briefs/11.2_convexity.md) | Lily | [slides](./slides/Chapter11.1-11.2.pdf) |
 | 14 | 3/2 | ------ Prelim, no lecture today ------ |  |  |
 | 15 | 3/14 | Gradient Descent | d2l [§11.3](./d2l_briefs/11.3_gradient-descent.md), [§11.4-§11.5](./d2l_briefs/11.4-11.5_sgd-and-mgd.md) | Vivian | [slides](./slides/Gradient%20Descent.pptx) |
@@ -31,7 +31,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 17 | 3/21 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l [§11.8](./d2l_briefs/11.8_rmsprop.md), [§11.9](./d2l_briefs/11.9_adadelta.md), [§11.10](./d2l_briefs/11.10_adam.md) | Gabriela | [slides](./slides/Optimization_RMSprop_Adadelta%26Adam.pdf) |
 | 18 | 3/23 | Learning Rate decay, Batch Normalization | d2l [§11.11](./notebooks/11.11_lr-scheduler.ipynb), [§7.5](./d2l_briefs/7.5_batchnorm.md) | Haley | [slides](./slides/Optimization_7.5_11.11.pptx) |
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l [§7.1](./notebooks/7.1_AlexNet.ipynb), [§7.2](./notebooks/7.2_VGG.ipynb) | Paul |
-| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l 7.3-7.4 | Jake |
+| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l [§7.3](./notebooks/7.3_NiN.ipynb), §7.4 | Jake |
 | 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yu-Hsiu |
 | 22 | 4/6 | TBD | |
 | 23 | 4/11 | Term Project 1  | |
