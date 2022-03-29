@@ -31,7 +31,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 17 | 3/21 | Optimization algorithm 2 (RMSProp, Adadelta, Adam) | d2l [§11.8](./d2l_briefs/11.8_rmsprop.md), [§11.9](./d2l_briefs/11.9_adadelta.md), [§11.10](./d2l_briefs/11.10_adam.md) | Gabriela | [slides](./slides/Optimization_RMSprop_Adadelta%26Adam.pdf) |
 | 18 | 3/23 | Learning Rate decay, Batch Normalization | d2l [§11.11](./notebooks/11.11_lr-scheduler.ipynb), [§7.5](./d2l_briefs/7.5_batchnorm.md) | Haley | [slides](./slides/Optimization_7.5_11.11.pptx) |
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l [§7.1](./notebooks/7.1_AlexNet.ipynb), [§7.2](./notebooks/7.2_VGG.ipynb) | Paul |
-| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l [§7.3](./notebooks/7.3_NiN.ipynb), §7.4 | Jake |
+| 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l [§7.3](./notebooks/7.3_NiN.ipynb), [§7.4](./notebooks/7.4_GoogLeNet.ipynb) | Jake |
 | 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l 7.6-7.7 | Yu-Hsiu |
 | 22 | 4/6 | TBD | |
 | 23 | 4/11 | Term Project 1  | |
