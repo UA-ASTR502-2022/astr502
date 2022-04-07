@@ -1,4 +1,7 @@
 # specific to this repo
+*.params
+# exception
+!CNN_SGD_lr0.2_run1_ep14.params
 
 # Compiled source
 *.o

@@ -33,7 +33,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 19 | 3/28 | CNN architecture 1 (AlexNet, VGG) | d2l [§7.1](./notebooks/7.1_AlexNet.ipynb), [§7.2](./notebooks/7.2_VGG.ipynb) | Paul |
 | 20 | 3/30 | CNN architecture 2 (NiN, GoogLeNet) | d2l [§7.3](./notebooks/7.3_NiN.ipynb), [§7.4](./notebooks/7.4_GoogLeNet.ipynb) | Jake | [slides](./slides/7.3-7.4_slides.pdf), [notes](./slides/7.3-7.4_discussion.pdf) |
 | 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l [§7.6](./notebooks/7.6_ResNet.ipynb), [§7.7](./notebooks/7.7_DenseNet.ipynb) | Yu-Hsiu | [slides](https://slides.com/yvonnehuang-1/d)
-| 22 | 4/6 | CNN part 4 | | Hung-Jin | 
+| 22 | 4/6 | Features learned in ConvNet | [notebook1](./notebooks/%5Bdemo%5D%20ConvNet%20feature%20maps.ipynb), [notebook2](./notebooks/%5Bdemo%5D%20pretrained%20AlexNet%20feature%20maps.ipynb) | Hung-Jin | [slides](./slides/CNN_features.pdf)
 | 23 | 4/11 | Term Project 1  | [paper1](https://arxiv.org/pdf/2103.01373.pdf), [paper2](https://arxiv.org/pdf/1704.02744.pdf) | Jeff, Patrick | |
 | 24 | 4/13 | Term Project 2  | [paper](https://arxiv.org/pdf/2012.12392.pdf) | Chia-Lin | |
 | 25 | 4/18 | Term Project 3  | [paper1](https://arxiv.org/abs/2106.13724), [paper2](https://arxiv.org/abs/2008.03833) | Joe, Jake | |
