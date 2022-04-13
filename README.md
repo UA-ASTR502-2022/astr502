@@ -37,12 +37,12 @@ Dive into Deep Learning (https://d2l.ai)
 | 23 | 4/11 | Term Project 1  | [paper1](https://arxiv.org/pdf/2103.01373.pdf), [paper2](https://arxiv.org/pdf/1704.02744.pdf) | Jeff, Patrick | |
 | 24 | 4/13 | Term Project 2  | [paper](https://arxiv.org/pdf/2012.12392.pdf) | Chia-Lin | |
 | 25 | 4/18 | Term Project 3  | [paper1](https://arxiv.org/abs/2106.13724), [paper2](https://arxiv.org/abs/2008.03833) | Joe, Jake | |
-| 26 | 4/20 | Term Project 4  | | | |
-| 27 | 4/25 | Term Project 5  | | | |
-| 28 | 4/27 | Term Project 6  | | | |
-| 29 | 5/2  | Term Project 7  | | | |
-| 30 | 5/4  | Term Project 8  | | | |
-| 31 | 5/9  | Term Project 9  | | | |
+| 26 | 4/20 | Term Project 4  | [paper1](https://arxiv.org/abs/1702.00403), [paper2](https://arxiv.org/abs/1905.07424) | Hina, Colin | |
+| 27 | 4/25 | Term Project 5  | [paper1](https://arxiv.org/abs/2009.10673), [paper2](https://arxiv.org/abs/2005.12276) | Lily, Haley | |
+| 28 | 4/27 | Term Project 6  | [paper1](https://arxiv.org/abs/2203.05583), TBD | Yu-Hsiu, Vivian | |
+| 29 | 5/2  | Term Project 7  | TBD, [paper2](https://arxiv.org/abs/1905.04303) | Paul, Annie  | |
+| 30 | 5/4  | Term Project 8  | [paper1](https://arxiv.org/abs/2011.12437), [paper2](https://arxiv.org/abs/1909.10963) | Hayden, Yang | |
+| 31 | 5/9  | Term Project 9  | [paper1](https://arxiv.org/abs/1712.02777), [paper2](https://arxiv.org/abs/2011.12437) | Wei Leong, Maria Gabriela | |
 
 ## Links
 
