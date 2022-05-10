@@ -35,7 +35,7 @@ Dive into Deep Learning (https://d2l.ai)
 | 21 | 4/4 | CNN architecture 3 (ResNet, DenseNet) | d2l [§7.6](./notebooks/7.6_ResNet.ipynb), [§7.7](./notebooks/7.7_DenseNet.ipynb) | Yu-Hsiu | [slides](https://slides.com/yvonnehuang-1/d)
 | 22 | 4/6 | Features learned in ConvNet | [notebook1](./notebooks/%5Bdemo%5D%20ConvNet%20feature%20maps.ipynb), [notebook2](./notebooks/%5Bdemo%5D%20pretrained%20AlexNet%20feature%20maps.ipynb) | Hung-Jin | [slides](./slides/CNN_features.pdf)
 | 23 | 4/11 | Term Project 1  | [paper1](https://arxiv.org/pdf/2103.01373.pdf), [paper2](https://arxiv.org/pdf/1704.02744.pdf) | Jeff, Patrick | |
-| 24 | 4/13 | Term Project 2  | [paper](https://arxiv.org/pdf/2012.12392.pdf) | Chia-Lin | |
+| 24 | 4/13 | Term Project 2  | [paper](https://arxiv.org/pdf/2012.12392.pdf) | Chia-Lin | [slide](./slides/ML_final_ChiaLinKo.pdf)|
 | 25 | 4/18 | Term Project 3  | [paper1](https://arxiv.org/abs/2106.13724), [paper2](https://arxiv.org/abs/2008.03833) | Joe, Jake | |
 | 26 | 4/20 | Term Project 4  | [paper1](https://arxiv.org/abs/1702.00403), [paper2](https://arxiv.org/abs/1905.07424) | Hina, Colin | [slides2](./slides/Colin%20Leach%20project%20for%20ASTR%20502.pdf) |
 | 27 | 4/25 | Term Project 5  | [paper1](https://arxiv.org/abs/2009.10673), [paper2](https://arxiv.org/abs/2005.12276) | Lily, Haley | |
